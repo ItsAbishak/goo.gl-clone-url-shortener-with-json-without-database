@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Caption');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow');
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+
+body {
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size:13px;
+	background:#f0f3f5;
+}
+
+a {
+	color:#3269a0;
+}
+
+.Bree_Serif {
+	font-family: 'Bree Serif', serif;
+}
+
+.title {
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.title2 {
+	font-family: 'PT Sans Caption', sans-serif;
+}
+
+.max_chars {	
+	font-size:13px;
+	margin-top:4px;
+}
+
+.page {	
+	min-height:520px;	
+}
+
+.hero {
+	background-color:#366ed1; 
+	padding:30px 0px 45px 0px;
+	color:#FFF;
+}
+
+.hero .title{
+	font-size:3em;
+	margin-top:0px;
+	letter-spacing:3px
+}
+
+.hero .text{
+	font-size:14px;
+}
+
+.table-url>thead>tr>td, .table-url>thead>tr>th {
+	padding:14px 8px;
+	font-weight:bold;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size:15px;
+	letter-spacing:1.5px;
+}
+
+.table-url>tbody>tr>td {
+	padding:12px 8px;
+	background-color:transparent;
+}
+
+.table-url>thead>tr>td:first-child, .table-url>tbody>tr>td:first-child {
+	padding-left:25px;	
+}
+
+.table-url>thead>tr>td:last-child, .table-url>tbody>tr>td:last-child {
+	padding-right:25px;	
+}
+
+.panel {
+	border-radius:0px;	
+}
+
+
+header {
+	background-color:#FFF;	
+}
+
+header.transparent {
+	background-color:transparent;
+}
+
+header .navbar {
+	margin-bottom:0px;
+	border-radius:0px;
+	background:transparent;	
+	border:none;
+}
+
+.has-feedback .form-control-feedback{
+	line-height: 34px;
+	width: 34px;
+    height: 34px;
+	pointer-events:initial;
+	cursor:pointer;
+}
+
+.has-feedback label~.form-control-feedback {
+	top:23px;
+}
+
+.header .logo {
+	padding:10px 0px;
+}
+
+header .navbar .dropdown-menu{
+	max-width:250px;
+	min-width:180px;
+}
+
+.table-inbox tr.unread td, .table-inbox tr.unread td a{
+	color:#000000;
+	font-weight:700;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color:#000;
+	font-size:14px;
+}
+
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+	background-color:transparent;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+	background-color:transparent;
+}
+
+
+footer {
+	padding:20px 0px;
+	background-color:#eee;
+	color:#777;	
+	border-top:1px solid #FFF;
+}
+
+footer .nav_hor {
+	list-style-type:none;
+	padding:0px;
+	margin:0px;	
+}
+
+footer .nav_hor li{
+	margin-right:10px;
+	display:inline-block;
+}
+
+footer .nav_hor li::after {
+    content: "|";
+    display: inline-block;
+    color: #CCC;
+    padding: 0px 0px 0px 15px;
+}
+
+footer .nav_hor li:last-child::after {
+	display:none;
+}
+
+.wrapper {
+	margin-top:50px;
+}
+
+.form-control {
+	box-shadow:none;
+	border-radius:0px;
+}
+
+.btn {
+	border-radius:0px;
+}
+
+.btn.btn-default{
+	border-color:transparent;
+}
+
