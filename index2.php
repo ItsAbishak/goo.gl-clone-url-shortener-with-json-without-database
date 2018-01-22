@@ -17,7 +17,13 @@
 
 
 ?>
-
+<!-- * /    
+Goo.gl Clone Url Shortener
+Author: Abishak Sharma
+Open Sourced Under The MIT License
+If you use my code please give me credit somewhere in your page
+Include: Full name(Abishak Sharma),(Twitter: @ItsAbishak), Website(abishaksharma.me) 
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
