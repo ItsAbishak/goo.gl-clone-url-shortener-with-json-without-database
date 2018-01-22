@@ -194,5 +194,4 @@ Include: Full name(Abishak Sharma),(Twitter: @ItsAbishak), Website(abishaksharma
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-<script src="http://www.kliptu.com/demo/goo_gl/assets/js/jquery-qrcode-0.14.0.js"></script>
 
